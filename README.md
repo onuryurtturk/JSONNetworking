@@ -79,11 +79,11 @@ Basic XML layout for user input.
 		android:layout_marginTop="15dp"
 		android:layout_height="fill_parent" /&gt;
 
-			&lt;/LinearLayout&gt;
+&lt;/LinearLayout&gt;
 
-		&lt;/ScrollView&gt;
+&lt;/ScrollView&gt;
 
-	&lt;/RelativeLayout&gt;
+&lt;/RelativeLayout&gt;
 
 </pre>
 
