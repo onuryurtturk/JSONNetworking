@@ -23,7 +23,11 @@ compile project(':jsonlibrary')
 
 compile files('libs/jsonsocket.jar')
 
+
 }
+
+//You can find out jar file in
+<a href="https://github.com/onuryurtturk/JSONNetworking/tree/master/jarFile">https://github.com/onuryurtturk/JSONNetworking/tree/master/jarFile</a>.
 </pre>
 
 **Sample App Layout**
