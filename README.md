@@ -96,9 +96,10 @@ You can use Main Thread for ui updates like this
 
 	@Override
 	public void run() {
-	txt_results.setText(String.valueOf(txt_results.getText()) + "\n" + m);
-}
-});
+	txt_results.setText(String.valueOf(txt_results.getText()) + "\n" + m); }
+   
+    });
+
 </pre>
 
 **How to start Server**
