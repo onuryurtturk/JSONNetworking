@@ -13,7 +13,7 @@ Quick Start
 **Installation**
 
 <pre>
-	repositories {
+repositories {
 	jcenter()
 }
 
@@ -23,6 +23,7 @@ compile project(':jsonlibrary')
 //or add dependency for jar file
 
 compile files('libs/jsonsocket.jar')
+
 }
 </pre>
 
