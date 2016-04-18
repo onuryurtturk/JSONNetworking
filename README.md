@@ -5,7 +5,8 @@ Android JSONNetworking App
 
 JSONNetworking is simple library for sending json or string messages to between server and client side.
 
-<img src="https://raw.githubusercontent.com/onuryurtturk/JSONNetworking/tree/master/screenshot.png" width="422" height="714" alt="Screenshot"/>
+<img src="https://raw.githubusercontent.com/onuryurtturk/JSONNetworking/master/screenshot.png" width="422" height="714" alt="Screenshot"/>
+
 
 Quick Start
 -----------
