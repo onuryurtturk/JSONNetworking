@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myJsonApp</string>
+    <string name="btn_send_server">Send to Server</string>
+    <string name="text_for_server">Type Something...</string>
+    <string name="text_empty">Message is empty!</string>
+    <string name="server_error">Server not running</string>
+</resources>
