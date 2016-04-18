@@ -1,8 +1,6 @@
 Android JSONNetworking App
 =====================
 
-[ ![Download](https://api.bintray.com/packages/ayltai/maven/Android-Lib-reCAPTCHA/images/download.svg) ](https://bintray.com/ayltai/maven/Android-Lib-reCAPTCHA/_latestVersion)
-
 JSONNetworking is simple library for sending json or string messages to between server and client side.
 
 <img src="https://raw.githubusercontent.com/onuryurtturk/JSONNetworking/master/screenshot.png" width="422" height="714" alt="Screenshot"/>
